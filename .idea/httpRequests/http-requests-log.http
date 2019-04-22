@@ -1,0 +1,130 @@
+POST http://symfony.local/api/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-21T055623.500.html
+
+###
+
+POST http://symfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-21T055509.404.json
+
+###
+
+POST http://symfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-19T055911.500.html
+
+###
+
+POST http://symfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-19T055853.500.html
+
+###
+
+POST http://symfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-19T055821.500.html
+
+###
+
+POST http://symfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-19T052453.500.html
+
+###
+
+POST http://symfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-19T052327.500.html
+
+###
+
+POST http://symfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-19T051827.500.html
+
+###
+
+POST http://symfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-19T051335.500.html
+
+###
+
+POST http://symfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-19T051251.200.html
+
+###
+
+POST http://symfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+<> 2019-04-19T050849.200.html
+
+###
+
+POST http://simfony.local/article
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+{:
+  "name": "name",
+  "description": "description"
+}:
+
+###
+

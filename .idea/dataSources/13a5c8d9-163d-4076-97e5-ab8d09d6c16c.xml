@@ -1107,7 +1107,7 @@
       <Charset>utf8mb4</Charset>
       <DefaultForCharset>0</DefaultForCharset>
     </collation>
-    <table id="278" parent="6" name="product">
+    <table id="278" parent="6" name="products">
       <Collation>utf8mb4_unicode_ci</Collation>
     </table>
     <column id="279" parent="278" name="id">
